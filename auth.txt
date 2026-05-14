@@ -1,0 +1,2 @@
+Estructura de autenticación
+ACTUALIZACIÓN: Se agregó encriptación AES-256
