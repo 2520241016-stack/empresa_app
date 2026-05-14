@@ -1,2 +1,1 @@
-Modulo de gestion de usuarios
-Registro y autenticacion habilitada
+Modulo usuarios
