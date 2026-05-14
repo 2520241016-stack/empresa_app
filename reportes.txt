@@ -1,2 +1,2 @@
 Modulo de reportes empresariales
-Exportacion PDF habilitada
+Exportacion Excel habilitada
