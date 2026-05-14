@@ -1,2 +1,2 @@
 Modulo de reportes empresariales
-Exportacion Excel habilitada
+Exportacion Excel desahabilitada
