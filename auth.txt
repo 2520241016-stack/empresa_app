@@ -1,2 +1,3 @@
 Estructura de autenticación
 ACTUALIZACIÓN: Se agregó encriptación AES-256
+SERVER_URL=https://prod.empresa.com
